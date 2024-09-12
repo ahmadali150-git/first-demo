@@ -1,2 +1,3 @@
 # first-demo
-This is first project
+This is first Git repository.
+Author - Ahmed Ali
